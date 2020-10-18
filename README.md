@@ -13,9 +13,10 @@
 
 ## Tools
 - Soldering Iron
-- 
-
+- screw drivers
+-soldering wire,say generally workshop kit
 ## Materials 
 - DIY Plastic Bread Board
-- 
-
+- capacitors,10v470uf,50v10uf,0.01mf indicated as 104 ceramics,trimmer capacitors 10-20pf.
+-Resistors 1-8watts
+-coils 1-4turns(0.8mm)-Transistors 1619cp or 9018,-switch or bandselector,-station box or gang,-speaker(4)ohms.etc
