@@ -21,3 +21,6 @@
 -Resistors 1-8watts
 -coils 1-4turns(0.8mm)-Transistors 1619cp or 9018,-switch or bandselector,-station box or gang,-speaker(4)ohms.etc
 Feel free to contribut to this
+# Achievements
+- it has helped me to master the power supply of an FM transmitter hence making wiring so simple
+- mastered every single component and its functionality
