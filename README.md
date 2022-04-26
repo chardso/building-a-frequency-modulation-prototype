@@ -44,3 +44,4 @@ In order to carry out this project;
 ![](Images/capacitor16v470uf.jpg)
 ![](Images/ceramiccapacitor.jpg)
 ![](Images/resistor330n2w.jpg)
+![](IMG_20220207_134319_459.jpg)
