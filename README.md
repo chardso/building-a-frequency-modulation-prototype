@@ -55,4 +55,6 @@ There are two types of modulation
 - frequency modulation
 
 ## amplitude modulation
-The amplitude of a sine wave is varried in synchrony with the information bearing signal.The sine wave is called the **carrier**.Amplitude modulation is technologically quite simple,and the **bandwidth**of the amplitude modulated carrier is at **most twice the bandwidth** of the modulating signal.However,an amplitude modulated carrier is very prone to the deleterious effects of additive noise.
+The amplitude of a sine wave is varried in synchrony with the information bearing signal.The sine wave is called the **carrier**.Amplitude modulation is technologically quite simple,and the **bandwidth**of the amplitude modulated carrier is at **most twice the bandwidth** of the modulating signal.However,an amplitude modulated carrier is very prone to the deleterious effects of additive noise
+## frequency modulation
+Is more complicated than amplitude modulation,and the **bandwidth**of a frequency modulated**carrier**can be many times than that of the modulating signal,however the process of demodulating afrequency modulated carrier eliminates much of the deleterious effects of additive noise,this trade off between bandwidth and noise reduction characterises most communication situations.
