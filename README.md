@@ -69,4 +69,11 @@ The information bearing signal is used to modulate the carrier and so it is some
 
 The information bearing signal is sometimes called **baseband signal**.
 The waveform that results from the modulation of the carrier by the baseband signal is called **modulated carrier or the modulated signal**.
+The process then has two inputs:
+- the baseband (modulating)signal
+- carrier
+The process of modulation is performed by an electronic device called **a modulator**.
+Although the carrier can be any wave shaped, it usually is **a sine wave** that has its amplitude, frequency or phase varried in synchrony with the baseband signal.
+
+
 
