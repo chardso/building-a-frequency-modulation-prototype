@@ -16,7 +16,7 @@ It's the type of modulation used for **AM radio broadcasting**.the frequency of 
 ## frequency modulation
 Is more complicated than amplitude modulation,and the bandwidthof a frequency modulatedcarriercan be many times than that of the modulating signal,however the process of demodulating afrequency modulated carrier eliminates much of the deleterious effects of additive noise,this trade off between bandwidth and noise reduction characterises most communication situations.
 
-multiplexing
+# multi-plexing
 ## Types
 
 - space-division multiplexing
