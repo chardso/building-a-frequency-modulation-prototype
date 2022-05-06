@@ -33,4 +33,4 @@ The process then has two inputs:
 - the baseband (modulating)signal
 - carrier 
 
-The process of modulation is performed by an electronic device called a **modulator*". Although the carrier can be any wave shaped, it usually is a sine wave that has its amplitude, frequency or phase varried in synchrony with the baseband signal.
+The process of modulation is performed by an electronic device called a **modulator**. Although the carrier can be any wave shaped, it usually is a sine wave that has its amplitude, frequency or phase varried in synchrony with the baseband signal.
