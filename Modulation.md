@@ -11,7 +11,7 @@ There are two types of modulation
 The amplitude of a sine wave is varried in synchrony with the information bearing signal.The sine wave is called **the carrier**.Amplitude modulation is technologically quite simple,and the bandwidthof the amplitude modulated carrier is at **most twice the bandwidth** of the modulating signal.However,an amplitude modulated carrier is very prone to the deleterious effects of additive noise
 ![](Images/IMG_20220506_122733_771.jpg)
 
-It's the type of modulation used for **AM radio broadcasting**.the frequency of the carrier is always much higher than the frequency of of the modulating waveform.the carrier frequency can be in the range of **550kHZ to 1,600kHz*
+It's the type of modulation used for **AM radio broadcasting**.the frequency of the carrier is always much higher than the frequency of of the modulating waveform.the carrier frequency can be in the range of **550kHZ to 1,600kHz**
 
 ## frequency modulation
 Is more complicated than amplitude modulation,and the bandwidthof a frequency modulatedcarriercan be many times than that of the modulating signal,however the process of demodulating afrequency modulated carrier eliminates much of the deleterious effects of additive noise,this trade off between bandwidth and noise reduction characterises most communication situations.
@@ -30,5 +30,6 @@ The information bearing signal is used to modulate the carrier and so it is some
 The information bearing signal is sometimes called **baseband signal**. The waveform that results from the modulation of the carrier by the baseband signal is called **modulated carrier** or the **modulated signal**. 
 The process then has two inputs:
 
-the baseband (modulating)signal
-carrier The process of modulation is performed by an electronic device called a **modulator*". Although the carrier can be any wave shaped, it usually is a sine wave that has its amplitude, frequency or phase varried in synchrony with the baseband signal.
+- the baseband (modulating)signal
+- carrier 
+The process of modulation is performed by an electronic device called a **modulator*". Although the carrier can be any wave shaped, it usually is a sine wave that has its amplitude, frequency or phase varried in synchrony with the baseband signal.
