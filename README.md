@@ -62,4 +62,5 @@ Is more complicated than amplitude modulation,and the **bandwidth**of a frequenc
 - space-division multiplexing
 - time division multiplexing
 - frequency-division multiplexing
+The waveform that carries the baseband signal to another range of frequenciesis called **carrier waveform**or simply carrier,the process by which it's accomplished is called **modulation**.
 
