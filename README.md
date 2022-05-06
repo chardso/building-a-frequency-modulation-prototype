@@ -45,3 +45,5 @@ In order to carry out this project;
 ![](Images/ceramiccapacitor.jpg)
 ![](Images/resistor330n2w.jpg)
 ![](IMG_20220207_134319_459.jpg)
+- should have knowledge of modulation.
+# modulation
