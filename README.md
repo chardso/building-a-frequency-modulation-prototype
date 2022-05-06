@@ -47,8 +47,7 @@ In order to carry out this project;
 ![](IMG_20220207_134319_459.jpg)
 - should have knowledge of modulation.
 # modulation
-The concept of modulation is essential to communication systems since it enables anumber of different signals to all share the same medium
-The combining of the number of signals to share a communication medium by dividing it into different frequency bands for each signal is called **frequency-division multi-plexing** 
+The concept of modulation is essential to communication systems since it enables anumber of different signals to all share the same medium.The combining of the number of signals to share a communication medium by dividing it into different frequency bands for each signal is called **frequency-division multi-plexing** 
 
 There are two types of modulation
 - amplitude modulation
