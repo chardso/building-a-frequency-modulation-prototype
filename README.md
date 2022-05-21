@@ -45,7 +45,7 @@ In order to carry out this project;
 ![](Images/ceramiccapacitor.jpg)
 ![](Images/resistor330n2w.jpg)
 ![](IMG_20220207_134319_459.jpg)
-
+![](Images/IMG_20220521_113848_968.jpg)
 For a short video click>>>> [short test video](building-a-frequency-modulation-prototype/Video/VID_20220521_111043_258.mp4)
 
 - should have knowledge of modulation.
