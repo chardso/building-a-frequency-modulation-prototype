@@ -1,4 +1,4 @@
-# Building an FM radio transmitter
+# Building a frequency modulation prototype
 
 
 ## The major purpose and usefulness of the project are as follows:
