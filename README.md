@@ -66,6 +66,8 @@ In order to carry out this project;
 
 ![](Images/IMG_20220521_113848_968.jpg)
 
+**bellow is a short video of my first prototype**
+
 https://youtu.be/lCXPp5TPtzY
 
 - should have knowledge of modulation.
